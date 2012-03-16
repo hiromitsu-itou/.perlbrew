@@ -1,0 +1,8 @@
+[% INCLUDE field/label.tt %]
+[% FOR option IN f.options -%]
+  <input type="checkbox" value="[% option.value %]" name="[% f.name %]"
+  [% FOREACH selval IN f.fif -%]
+    [% IF selval == option.value %]selected="selected"[% END -%]
+  [% END -%]>
+  [% option.label | html -%]>
+[% END -%] 

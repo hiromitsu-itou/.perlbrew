@@ -1,0 +1,50 @@
+#!/home/ito/.perlbrew/perl5/perls/perl-5.12.4/bin/perl -w
+use File::Basename;
+$api_versionstring = "5.14.0";
+$version = "5.14.2";
+$stem = "/home/ito/.perlbrew/perl5/perls/perl-5.14.2/lib/site_perl";
+$archname = "x86_64-linux";
+# The list found is store twice for each entry: the original name, and
+# the binary broken down version as pack "sss", so sorting is easy and
+# unambiguous. This will work for all versions that have a maximum of
+# three digit groups, separate by '.'s or '_'s. Names are extended with
+# ".0.0" to ensure at least three elements for the pack.
+#					-- H.Merijn Brand (m)'06 23-10-2006
+
+# Can't have leading @ because metaconfig interprets it as a command!
+;@inc_version_list=();
+# XXX Redo to do opendir/readdir?
+if (-d $stem) {
+    chdir($stem);
+    ;@candidates = map {
+	[ $_, pack "sss", split m/[._]/, "$_.0.0" ] } glob("5.*");
+    ;@candidates = sort { $a->[1] cmp $b->[1]} @candidates;
+}
+else {
+    ;@candidates = ();
+}
+
+($pversion, $aversion, $vsn5005) = map {
+    pack "sss", split m/[._]/, "$_.0.0" } $version, $api_versionstring, "5.005";
+foreach $d (@candidates) {
+    if ($d->[1] lt $pversion) {
+	if ($d->[1] ge $aversion) {
+	    unshift(@inc_version_list, grep { -d } $d->[0]."/$archname", $d->[0]);
+	}
+	elsif ($d->[1] ge $vsn5005) {
+	    unshift(@inc_version_list, grep { -d } $d->[0]);
+	}
+    }
+    else {
+	# Skip newer version.  I.e. don't look in
+	# 5.7.0 if we're installing 5.6.1.
+    }
+}
+
+if (@inc_version_list) {
+    print join(' ', @inc_version_list);
+}
+else {
+    # Blank space to preserve value for next Configure run.
+    print " ";
+}

@@ -1,0 +1,58 @@
+{
+   "abstract" : "Unicode aware Catalyst",
+   "author" : [
+      "Christian Hansen, C<ch@ngmedia.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.02, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Unicode-Encoding",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "HTTP::Status" : 0,
+            "IO::Scalar" : 0,
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst" : "5.80",
+            "Class::Data::Inheritable" : 0,
+            "Encode" : "2.21",
+            "LWP" : "5.837",
+            "Try::Tiny" : 0,
+            "URI" : "1.36"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Unicode-Encoding/"
+      }
+   },
+   "version" : "1.3",
+   "x_module_name" : "Catalyst::Plugin::Unicode::Encoding"
+}

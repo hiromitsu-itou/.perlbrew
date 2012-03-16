@@ -1,0 +1,32 @@
+# Index created by AutoSplit for blib/lib/File/Util.pm
+#    (file acts as timestamp)
+package File::Util;
+sub bitmask  ;
+sub can_flock  ;
+sub can_read   ;
+sub can_write  ;
+sub created  ;
+sub ebcdic  ;
+sub escape_filename  ;
+sub existent  ;
+sub touch  ;
+sub file_type  ;
+sub flock_rules  ;
+sub isbin  ;
+sub last_access  ;
+sub last_modified  ;
+sub last_changed  ;
+sub load_dir  ;
+sub make_dir  ;
+sub max_dives  ;
+sub readlimit  ;
+sub needs_binmode  ;
+sub open_handle  ;
+sub unlock_open_handle  ;
+sub return_path  ;
+sub size  ;
+sub trunc  ;
+sub use_flock  ;
+sub _throw  ;
+sub _errors  ;
+1;

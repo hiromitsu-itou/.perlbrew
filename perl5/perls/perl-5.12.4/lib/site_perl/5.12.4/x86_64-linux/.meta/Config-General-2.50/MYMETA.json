@@ -1,0 +1,47 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "unknown"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.30, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Config-General",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "File::Glob" : 0,
+            "File::Spec::Functions" : 0,
+            "FileHandle" : 0,
+            "IO::File" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://rt.cpan.org/Public/Dist/Display.html?Name=Config-General"
+      },
+      "homepage" : "http://search.cpan.org/dist/Config-General/",
+      "license" : [
+         "http://dev.perl.org/licenses/artistic.html"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Config-General"
+      }
+   },
+   "version" : "2.50",
+   "x_installdirs" : "site",
+   "x_version_from" : "General.pm"
+}

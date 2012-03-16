@@ -1,0 +1,56 @@
+{
+   "abstract" : "Simple percent Encoding/Decoding",
+   "author" : [
+      "Mithun Ayachit <mithun@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "URI-Encode",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::More" : 0,
+            "version" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "Module::Build" : "0.38"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Encode" : "2.12",
+            "perl" : "v5.8.1"
+         }
+      }
+   },
+   "provides" : {
+      "URI::Encode" : {
+         "file" : "lib/URI/Encode.pm",
+         "version" : "0.06"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=URI-Encode"
+      },
+      "homepage" : "https://github.com/mithun/perl-uri-encode",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/mithun/perl-uri-encode.git"
+      }
+   },
+   "version" : "0.06"
+}

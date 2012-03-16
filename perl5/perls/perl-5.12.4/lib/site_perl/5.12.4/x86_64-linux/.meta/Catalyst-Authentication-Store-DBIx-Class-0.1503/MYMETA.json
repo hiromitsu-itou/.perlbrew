@@ -1,0 +1,73 @@
+{
+   "abstract" : "A storage class for Catalyst Authentication using DBIx::Class",
+   "author" : [
+      "Jason Kuri (jayk@cpan.org)"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.02, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Authentication-Store-DBIx-Class",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Model::DBIC::Schema" : "0.18",
+            "Catalyst::Plugin::Authentication" : "0.10008",
+            "Catalyst::Runtime" : "5.8",
+            "DBIx::Class" : "0.08",
+            "List::MoreUtils" : 0,
+            "Moose" : 0,
+            "Test::More" : 0,
+            "Try::Tiny" : 0,
+            "namespace::autoclean" : 0,
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "provides" : {
+      "Catalyst::Authentication::Realm::SimpleDB" : {
+         "file" : "lib/Catalyst/Authentication/Realm/SimpleDB.pm",
+         "version" : 0
+      },
+      "Catalyst::Authentication::Store::DBIx::Class" : {
+         "file" : "lib/Catalyst/Authentication/Store/DBIx/Class.pm",
+         "version" : "0.1503"
+      },
+      "Catalyst::Authentication::Store::DBIx::Class::User" : {
+         "file" : "lib/Catalyst/Authentication/Store/DBIx/Class/User.pm",
+         "version" : 0
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://git.shadowcat.co.uk/catagits/Catalyst-Authentication-Store-DBIx-Class.git"
+      }
+   },
+   "version" : "0.1503"
+}

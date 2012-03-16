@@ -1,0 +1,55 @@
+{
+   "abstract" : "Maintain session IDs using cookies.",
+   "author" : [
+      "Yuval Kogman <nothingmuch@woobling.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Session-State-Cookie",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst" : "5.80005",
+            "Catalyst::Plugin::Session" : "0.27",
+            "ExtUtils::MakeMaker" : "6.42",
+            "MRO::Compat" : 0,
+            "Moose" : 0,
+            "Test::More" : 0,
+            "namespace::autoclean" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Session-State-Cookie/trunk/"
+      }
+   },
+   "version" : "0.17"
+}

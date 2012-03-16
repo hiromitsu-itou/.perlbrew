@@ -1,0 +1,1 @@
+{"provides":{"YAML::Loader::Syck":{"file":"YAML/Loader/Syck.pm"},"YAML::Syck":{"version":"1.19","file":"YAML/Syck.pm"},"JSON::Syck":{"version":"0.42","file":"JSON/Syck.pm"},"YAML::Dumper::Syck":{"file":"YAML/Dumper/Syck.pm"}},"version":"1.19","name":"YAML::Syck","dist":"YAML-Syck-1.19","pathname":"S/SM/SMUELLER/YAML-Syck-1.19.tar.gz","module":"YAML::Syck"}

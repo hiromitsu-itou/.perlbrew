@@ -1,0 +1,32 @@
+{
+   "abstract" : "Apply roles to a class related to yours",
+   "author" : [
+      "Hans Dieter Pearcey <hdp@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla::Plugin::MetaYaml version 1.004, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MooseX-RelatedClassRoles",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Class::MOP" : "0.80",
+            "Moose" : "0.73",
+            "MooseX::Role::Parameterized" : "0.04"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.004"
+}

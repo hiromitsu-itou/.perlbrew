@@ -1,0 +1,58 @@
+{
+   "abstract" : "A library to extract height/width from images",
+   "author" : [
+      "Randy J. Ray <rjray@blackperl.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.3607, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Image-Size",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "Module::Build" : "0.36"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "Compress::Zlib" : "2"
+         },
+         "requires" : {
+            "File::Spec" : "0.8",
+            "Module::Build" : "0.28",
+            "Test::More" : "0.80"
+         }
+      }
+   },
+   "provides" : {
+      "Image::Size" : {
+         "file" : "lib/Image/Size.pm",
+         "version" : "3.230"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Image-Size"
+      },
+      "homepage" : "http://search.cpan.org/dist/Image-Size",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://github.com/rjray/image-size"
+      }
+   },
+   "version" : "3.230"
+}

@@ -1,0 +1,55 @@
+{
+   "abstract" : "Make serving static pages painless.",
+   "author" : [
+      "Andy Grundman, <andy@hybridized.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Static-Simple",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Runtime" : "5.80008",
+            "ExtUtils::MakeMaker" : "6.42",
+            "MIME::Types" : "1.25",
+            "Moose" : 0,
+            "MooseX::Types" : 0,
+            "Test::More" : 0,
+            "namespace::autoclean" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Static-Simple/trunk/"
+      }
+   },
+   "version" : "0.29"
+}

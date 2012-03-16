@@ -1,0 +1,33 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "unknown"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.30, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Email-Valid-Loose",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Email::Valid" : "0.17",
+            "Test::More" : "0.32"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.05",
+   "x_installdirs" : "site",
+   "x_version_from" : "lib/Email/Valid/Loose.pm"
+}

@@ -1,0 +1,50 @@
+{
+   "abstract" : "an extension of Params::Validate using Moose's types",
+   "author" : [
+      "Stevan Little <stevan.little@iinteractive.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.200001, CPAN::Meta::Converter version 2.102400, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "MooseX-Params-Validate",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::Fatal" : "0.001",
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.31"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp" : 0,
+            "Devel::Caller" : 0,
+            "Moose" : "0.58",
+            "Params::Validate" : "0.88",
+            "Scalar::Util" : 0,
+            "Sub::Exporter" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=MooseX::Params::Validate"
+      },
+      "repository" : {
+         "url" : "git://git.moose.perl.org/MooseX-Params-Validate.git"
+      }
+   },
+   "version" : "0.16",
+   "x_authority" : "cpan:STEVAN"
+}

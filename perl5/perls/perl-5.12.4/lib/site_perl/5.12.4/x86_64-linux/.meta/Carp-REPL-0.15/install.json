@@ -1,0 +1,1 @@
+{"provides":{"Devel::REPL::Plugin::Carp::REPL":{"file":"Devel/REPL/Plugin/Carp/REPL.pm"},"Carp::REPL":{"version":"0.15","file":"Carp/REPL.pm"}},"version":"0.15","name":"Carp::REPL","dist":"Carp-REPL-0.15","pathname":"S/SA/SARTAK/Carp-REPL-0.15.tar.gz","module":"Carp::REPL"}

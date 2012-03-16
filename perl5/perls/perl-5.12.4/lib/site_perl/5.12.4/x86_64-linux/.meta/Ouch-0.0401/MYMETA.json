@@ -1,0 +1,42 @@
+{
+   "abstract" : "Exceptions that don't hurt.",
+   "author" : [
+      "JT Smith <jt@plainblack.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.200006, CPAN::Meta::Converter version 2.110930, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Ouch",
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Test::More" : 0,
+            "Test::Trap" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://github.com/rizen/Ouch/issues"
+      },
+      "repository" : {
+         "url" : "git://github.com/rizen/Ouch.git"
+      }
+   },
+   "version" : "0.0401"
+}

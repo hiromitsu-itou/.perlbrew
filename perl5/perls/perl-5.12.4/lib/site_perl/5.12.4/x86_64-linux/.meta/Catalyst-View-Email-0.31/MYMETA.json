@@ -1,0 +1,81 @@
+{
+   "abstract" : "Send Email from Catalyst",
+   "author" : [
+      "J. Shirley <jshirley@gmail.com>",
+      "J. Shirley <jshirley@gmail.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.00, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-View-Email",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : 0,
+            "Test::Requires" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Authen::SASL" : "2.13",
+            "Catalyst" : "5.7",
+            "Email::MIME" : "1.859",
+            "Email::MIME::Creator" : "1.455",
+            "Email::Sender::Simple" : "0.100110",
+            "MIME::Base64" : "3.08",
+            "Moose" : "0.93",
+            "Test::More" : "0.88",
+            "Test::Requires" : 0,
+            "parent" : "0.223"
+         }
+      }
+   },
+   "provides" : {
+      "Catalyst::Helper::View::Email" : {
+         "file" : "lib/Catalyst/Helper/View/Email.pm",
+         "version" : "0.31"
+      },
+      "Catalyst::Helper::View::Email::Template" : {
+         "file" : "lib/Catalyst/Helper/View/Email/Template.pm",
+         "version" : "0.31"
+      },
+      "Catalyst::View::Email" : {
+         "file" : "lib/Catalyst/View/Email.pm",
+         "version" : "0.31"
+      },
+      "Catalyst::View::Email::Template" : {
+         "file" : "lib/Catalyst/View/Email/Template.pm",
+         "version" : "0.31"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-View-Email/"
+      },
+      "x_IRC" : "irc://irc.perl.org/#catalyst",
+      "x_MailingList" : "http://lists.scsys.co.uk/cgi-bin/mailman/listinfo/catalyst"
+   },
+   "version" : "0.31"
+}

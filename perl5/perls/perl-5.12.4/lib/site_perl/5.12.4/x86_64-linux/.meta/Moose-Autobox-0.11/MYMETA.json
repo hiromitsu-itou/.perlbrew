@@ -1,0 +1,53 @@
+{
+   "abstract" : "Autoboxed wrappers for Native Perl datatypes ",
+   "author" : [
+      "Stevan Little <stevan@iinteractive.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.95, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Moose-Autobox",
+   "no_index" : {
+      "directory" : [
+         "examples",
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::Exception" : "0.21",
+            "Test::More" : "0.89"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Moose" : "0.42",
+            "Perl6::Junction" : "1.40000",
+            "autobox" : "2.23",
+            "perl" : "5.006"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.11"
+}

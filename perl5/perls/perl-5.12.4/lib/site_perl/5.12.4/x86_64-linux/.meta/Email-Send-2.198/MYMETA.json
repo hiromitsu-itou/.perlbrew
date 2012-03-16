@@ -1,0 +1,48 @@
+{
+   "abstract" : "Simply Sending Email",
+   "author" : [
+      "Casey West <casey@geeknest.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.50, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Email-Send",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Email::Address" : "1.80",
+            "Email::Simple" : "1.92",
+            "File::Spec" : 0,
+            "Module::Pluggable" : "2.97",
+            "Return::Value" : "1.28",
+            "Scalar::Util" : "1.02",
+            "Symbol" : 0,
+            "Test::More" : "0.47"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "2.198"
+}

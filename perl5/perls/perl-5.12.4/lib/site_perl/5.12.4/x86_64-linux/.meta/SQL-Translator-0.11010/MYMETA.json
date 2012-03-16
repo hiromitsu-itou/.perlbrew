@@ -1,0 +1,381 @@
+{
+   "abstract" : "SQL DDL transformations and more",
+   "author" : [
+      "Ken Youens-Clark <kclark@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.02, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "open_source"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "SQL-Translator",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "share",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "File::Basename" : 0,
+            "Test::Differences" : 0,
+            "Test::Exception" : 0,
+            "Test::More" : "0.6",
+            "YAML" : "0.66"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "GD" : 0,
+            "Graph::Directed" : 0,
+            "GraphViz" : 0,
+            "Spreadsheet::ParseExcel" : "0.41",
+            "Template" : "2.2",
+            "Text::ParseWords" : 0,
+            "Text::RecordParser" : "0.02",
+            "XML::LibXML" : "1.69"
+         },
+         "requires" : {
+            "Carp::Clan" : 0,
+            "Class::Accessor::Fast" : 0,
+            "Class::Base" : 0,
+            "Class::Data::Inheritable" : "0.02",
+            "Class::MakeMethods" : 0,
+            "DBI" : 0,
+            "Digest::SHA1" : "2",
+            "ExtUtils::MakeMaker" : "6.11",
+            "File::Basename" : 0,
+            "File::ShareDir" : "1",
+            "File::Spec" : 0,
+            "IO::Dir" : 0,
+            "IO::Scalar" : "2.11",
+            "Moo" : "0.009007",
+            "Parse::RecDescent" : "1.962002",
+            "Pod::Usage" : 0,
+            "Scalar::Util" : 0,
+            "Test::Differences" : 0,
+            "Test::Exception" : 0,
+            "Test::More" : "0.6",
+            "XML::Writer" : "0.5",
+            "YAML" : "0.66",
+            "perl" : "5.005"
+         }
+      }
+   },
+   "provides" : {
+      "Parse::RecDescent::SQL::Translator::Parser::DB2::Grammar" : {
+         "file" : "lib/SQL/Translator/Parser/DB2/Grammar.pm",
+         "version" : 0
+      },
+      "SQL::Translator" : {
+         "file" : "lib/SQL/Translator.pm",
+         "version" : "0.11010"
+      },
+      "SQL::Translator::Diff" : {
+         "file" : "lib/SQL/Translator/Diff.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Filter::DefaultExtra" : {
+         "file" : "lib/SQL/Translator/Filter/DefaultExtra.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Filter::Globals" : {
+         "file" : "lib/SQL/Translator/Filter/Globals.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Filter::Names" : {
+         "file" : "lib/SQL/Translator/Filter/Names.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser" : {
+         "file" : "lib/SQL/Translator/Parser.pm",
+         "version" : "1.60"
+      },
+      "SQL::Translator::Parser::Access" : {
+         "file" : "lib/SQL/Translator/Parser/Access.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DB2" : {
+         "file" : "lib/SQL/Translator/Parser/DB2.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Parser::DB2::Grammar" : {
+         "file" : "lib/SQL/Translator/Parser/DB2/Grammar.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Parser::DBI" : {
+         "file" : "lib/SQL/Translator/Parser/DBI.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DBI::DB2" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/DB2.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Parser::DBI::MySQL" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/MySQL.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DBI::Oracle" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/Oracle.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DBI::PostgreSQL" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/PostgreSQL.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DBI::SQLServer" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/SQLServer.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DBI::SQLite" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/SQLite.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::DBI::Sybase" : {
+         "file" : "lib/SQL/Translator/Parser/DBI/Sybase.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::Excel" : {
+         "file" : "lib/SQL/Translator/Parser/Excel.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::MySQL" : {
+         "file" : "lib/SQL/Translator/Parser/MySQL.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::Oracle" : {
+         "file" : "lib/SQL/Translator/Parser/Oracle.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::PostgreSQL" : {
+         "file" : "lib/SQL/Translator/Parser/PostgreSQL.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::SQLServer" : {
+         "file" : "lib/SQL/Translator/Parser/SQLServer.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::SQLite" : {
+         "file" : "lib/SQL/Translator/Parser/SQLite.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::Storable" : {
+         "file" : "lib/SQL/Translator/Parser/Storable.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::Sybase" : {
+         "file" : "lib/SQL/Translator/Parser/Sybase.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::XML" : {
+         "file" : "lib/SQL/Translator/Parser/XML.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::XML::SQLFairy" : {
+         "file" : "lib/SQL/Translator/Parser/XML/SQLFairy.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::YAML" : {
+         "file" : "lib/SQL/Translator/Parser/YAML.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Parser::xSV" : {
+         "file" : "lib/SQL/Translator/Parser/xSV.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer" : {
+         "file" : "lib/SQL/Translator/Producer.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::ClassDBI" : {
+         "file" : "lib/SQL/Translator/Producer/ClassDBI.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::DB2" : {
+         "file" : "lib/SQL/Translator/Producer/DB2.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::DiaUml" : {
+         "file" : "lib/SQL/Translator/Producer/DiaUml.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::Diagram" : {
+         "file" : "lib/SQL/Translator/Producer/Diagram.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::Dumper" : {
+         "file" : "lib/SQL/Translator/Producer/Dumper.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::GraphViz" : {
+         "file" : "lib/SQL/Translator/Producer/GraphViz.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::HTML" : {
+         "file" : "lib/SQL/Translator/Producer/HTML.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::Latex" : {
+         "file" : "lib/SQL/Translator/Producer/Latex.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::MySQL" : {
+         "file" : "lib/SQL/Translator/Producer/MySQL.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::Oracle" : {
+         "file" : "lib/SQL/Translator/Producer/Oracle.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::POD" : {
+         "file" : "lib/SQL/Translator/Producer/POD.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::PostgreSQL" : {
+         "file" : "lib/SQL/Translator/Producer/PostgreSQL.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::SQLServer" : {
+         "file" : "lib/SQL/Translator/Producer/SQLServer.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::SQLite" : {
+         "file" : "lib/SQL/Translator/Producer/SQLite.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::Storable" : {
+         "file" : "lib/SQL/Translator/Producer/Storable.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::Sybase" : {
+         "file" : "lib/SQL/Translator/Producer/Sybase.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::TT::Base" : {
+         "file" : "lib/SQL/Translator/Producer/TT/Base.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::TT::Table" : {
+         "file" : "lib/SQL/Translator/Producer/TT/Table.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::TTSchema" : {
+         "file" : "lib/SQL/Translator/Producer/TTSchema.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::XML" : {
+         "file" : "lib/SQL/Translator/Producer/XML.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::XML::SQLFairy" : {
+         "file" : "lib/SQL/Translator/Producer/XML/SQLFairy.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Producer::YAML" : {
+         "file" : "lib/SQL/Translator/Producer/YAML.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::ProducerUtils" : {
+         "file" : "lib/SQL/Translator/ProducerUtils.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema" : {
+         "file" : "lib/SQL/Translator/Schema.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Constants" : {
+         "file" : "lib/SQL/Translator/Schema/Constants.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Constraint" : {
+         "file" : "lib/SQL/Translator/Schema/Constraint.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Field" : {
+         "file" : "lib/SQL/Translator/Schema/Field.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Graph" : {
+         "file" : "lib/SQL/Translator/Schema/Graph.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema::Graph::CompoundEdge" : {
+         "file" : "lib/SQL/Translator/Schema/Graph/CompoundEdge.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema::Graph::Edge" : {
+         "file" : "lib/SQL/Translator/Schema/Graph/Edge.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema::Graph::HyperEdge" : {
+         "file" : "lib/SQL/Translator/Schema/Graph/HyperEdge.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema::Graph::Node" : {
+         "file" : "lib/SQL/Translator/Schema/Graph/Node.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema::Graph::Port" : {
+         "file" : "lib/SQL/Translator/Schema/Graph/Port.pm",
+         "version" : 0
+      },
+      "SQL::Translator::Schema::Index" : {
+         "file" : "lib/SQL/Translator/Schema/Index.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Object" : {
+         "file" : "lib/SQL/Translator/Schema/Object.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Procedure" : {
+         "file" : "lib/SQL/Translator/Schema/Procedure.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Table" : {
+         "file" : "lib/SQL/Translator/Schema/Table.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::Trigger" : {
+         "file" : "lib/SQL/Translator/Schema/Trigger.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Schema::View" : {
+         "file" : "lib/SQL/Translator/Schema/View.pm",
+         "version" : "1.59"
+      },
+      "SQL::Translator::Utils" : {
+         "file" : "lib/SQL/Translator/Utils.pm",
+         "version" : "1.59"
+      },
+      "Test::SQL::Translator" : {
+         "file" : "lib/Test/SQL/Translator.pm",
+         "version" : "1.59"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=SQL-Translator"
+      },
+      "license" : [
+         "http://opensource.org/licenses/gpl-license.php"
+      ],
+      "repository" : {
+         "url" : "git://git.shadowcat.co.uk/dbsrgits/SQL-Translator.git"
+      },
+      "x_Ratings" : "http://cpanratings.perl.org/d/SQL-Translator"
+   },
+   "version" : "0.11010"
+}

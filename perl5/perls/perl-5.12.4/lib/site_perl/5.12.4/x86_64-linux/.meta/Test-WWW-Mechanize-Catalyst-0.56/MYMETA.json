@@ -1,0 +1,59 @@
+{
+   "abstract" : "Test::WWW::Mechanize for Catalyst",
+   "author" : [
+      "Ash Berlin C<< <ash@cpan.org> >> (current maintiner)"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.01, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-WWW-Mechanize-Catalyst",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Catalyst::Plugin::Session::State::Cookie" : 0,
+            "Catalyst::Plugin::Session::Store::Dummy" : 0,
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::Exception" : 0,
+            "Test::More" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst" : "5.00",
+            "LWP" : "5.816",
+            "Moose" : "0.67",
+            "Test::WWW::Mechanize" : "1.14",
+            "WWW::Mechanize" : "1.54",
+            "namespace::clean" : "0.09",
+            "perl" : "5.008004"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Test-WWW-Mechanize-Catalyst/trunk/"
+      }
+   },
+   "version" : "0.56"
+}

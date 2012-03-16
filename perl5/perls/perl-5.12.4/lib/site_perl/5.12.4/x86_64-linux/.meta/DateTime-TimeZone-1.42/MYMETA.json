@@ -1,0 +1,48 @@
+{
+   "abstract" : "Time zone object base class and factory",
+   "author" : [
+      "Dave Rolsky <autarch@urth.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "DateTime-TimeZone",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.58"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Class::Load" : 0,
+            "Class::Singleton" : "1.03",
+            "Cwd" : "3",
+            "Params::Validate" : "0.72",
+            "Pod::Man" : "1.14",
+            "parent" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=DateTime-TimeZone"
+      },
+      "repository" : {
+         "url" : "git://git.urth.org/DateTime-TimeZone.git"
+      }
+   },
+   "version" : "1.42"
+}

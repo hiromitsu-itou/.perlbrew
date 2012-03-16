@@ -1,0 +1,64 @@
+{
+   "abstract" : "Automatic Trait Loading and Resolution for",
+   "author" : [
+      "Rafael Kitover, C<< <rkitover@cpan.org> >>",
+      "Rafael Kitover <bobtfish@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.99, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "CatalystX-Component-Traits",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Module::Pluggable" : "3.9",
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Runtime" : "5.80005",
+            "List::MoreUtils" : 0,
+            "Module::Pluggable" : "3.9",
+            "MooseX::Traits::Pluggable" : "0.08",
+            "Scalar::Util" : 0,
+            "Test::More" : "0.88",
+            "namespace::autoclean" : 0
+         }
+      }
+   },
+   "provides" : {
+      "CatalystX::Component::Traits" : {
+         "file" : "lib/CatalystX/Component/Traits.pm",
+         "version" : "0.16"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/bobtfish/catalystx-component-traits.git"
+      }
+   },
+   "version" : "0.16"
+}

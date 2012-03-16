@@ -1,0 +1,58 @@
+{
+   "abstract" : "A fast and easy way to integrate your apps with Facebook.",
+   "author" : [
+      "JT Smith <jt@plainblack.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.200006, CPAN::Meta::Converter version 2.110930, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Facebook-Graph",
+   "no_index" : {
+      "directory" : [
+         "author.t",
+         "eg"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Any::Moose" : "0.13",
+            "DateTime" : "0.61",
+            "DateTime::Format::Strptime" : "1.4000",
+            "JSON" : "2.16",
+            "LWP" : "6.02",
+            "LWP::Protocol::https" : "6.02",
+            "MIME::Base64::URLSafe" : "0.01",
+            "Mozilla::CA" : "20110409",
+            "Ouch" : "0.0400",
+            "Test::More" : 0,
+            "URI" : "1.54",
+            "URI::Encode" : "0.02"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://github.com/rizen/Facebook-Graph/issues"
+      },
+      "repository" : {
+         "url" : "git://github.com/rizen/Facebook-Graph.git"
+      }
+   },
+   "version" : "1.0301"
+}

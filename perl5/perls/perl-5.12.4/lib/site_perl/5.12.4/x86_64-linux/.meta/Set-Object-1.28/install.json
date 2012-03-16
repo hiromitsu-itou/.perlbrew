@@ -1,0 +1,1 @@
+{"provides":{"Set::Object::TieArray":{"file":"Set/Object.pm"},"Set::Object::Weak":{"file":"Set/Object/Weak.pm"},"Set::Object":{"version":"1.28","file":"Set/Object.pm"},"Set::Object::TieHash":{"file":"Set/Object.pm"}},"version":"1.28","name":"Set::Object","dist":"Set-Object-1.28","pathname":"S/SA/SAMV/Set-Object-1.28.tar.gz","module":"Set::Object"}

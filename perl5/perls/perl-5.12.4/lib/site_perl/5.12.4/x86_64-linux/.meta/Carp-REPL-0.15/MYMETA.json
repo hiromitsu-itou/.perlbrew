@@ -1,0 +1,61 @@
+{
+   "abstract" : "read-eval-print-loop on die and/or warn",
+   "author" : [
+      "Shawn M Moore, C<< <sartak at gmail.com> >>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Carp-REPL",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ],
+      "package" : [
+         "DB",
+         "Devel::REPL::Plugin::Carp::REPL"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Data::Dump::Streamer" : 0,
+            "Devel::LexAlias" : 0,
+            "Devel::REPL" : 0,
+            "Devel::StackTrace::WithLexicals" : 0,
+            "ExtUtils::MakeMaker" : "6.42",
+            "Lexical::Persistence" : 0,
+            "Test::Expect" : 0,
+            "Test::More" : 0,
+            "namespace::clean" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://github.com/bestpractical/carp-repl"
+      }
+   },
+   "version" : "0.15"
+}

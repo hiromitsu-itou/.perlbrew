@@ -1,0 +1,55 @@
+{
+   "abstract" : "Unicode aware Catalyst (old style)",
+   "author" : [
+      "Tomas Doran <bobtfish@bobtfish.net>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.910, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Unicode",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Runtime" : "5.70",
+            "ExtUtils::MakeMaker" : "6.42",
+            "IO::Scalar" : 0,
+            "MRO::Compat" : "0.10",
+            "Test::More" : 0,
+            "Test::WWW::Mechanize::Catalyst" : 0,
+            "ok" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/trunk/Catalyst-Plugin-Unicode/"
+      }
+   },
+   "version" : "0.93"
+}

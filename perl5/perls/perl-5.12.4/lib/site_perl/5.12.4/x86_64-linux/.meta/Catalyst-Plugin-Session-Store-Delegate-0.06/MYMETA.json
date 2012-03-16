@@ -1,0 +1,57 @@
+{
+   "abstract" : "Delegate session storage to an",
+   "author" : [
+      "Yuval Kogman, C<nothingmuch@woobling.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Session-Store-Delegate",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Plugin::Session" : "0.27",
+            "ExtUtils::MakeMaker" : "6.42",
+            "MRO::Compat" : 0,
+            "Moose" : 0,
+            "MooseX::Emulate::Class::Accessor::Fast" : 0,
+            "Test::More" : 0,
+            "Test::use::ok" : 0,
+            "namespace::clean" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Session-Store-Delegate/"
+      }
+   },
+   "version" : "0.06",
+   "x_module_name" : "Catalyst::Plugin::Session::Store::Delegate"
+}

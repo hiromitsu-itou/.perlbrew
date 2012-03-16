@@ -1,0 +1,55 @@
+{
+   "abstract" : "File storage backend for session data.",
+   "author" : [
+      "Sascha Kiefer, L<esskar@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.91, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Session-Store-File",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Cache::Cache" : "1.02",
+            "Catalyst::Plugin::Session" : "0.27",
+            "Catalyst::Runtime" : "5.7000",
+            "Class::Data::Inheritable" : "0.04",
+            "ExtUtils::MakeMaker" : "6.42",
+            "MRO::Compat" : "0.10",
+            "Test::More" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Session-Store-File/trunk/"
+      }
+   },
+   "version" : "0.18"
+}

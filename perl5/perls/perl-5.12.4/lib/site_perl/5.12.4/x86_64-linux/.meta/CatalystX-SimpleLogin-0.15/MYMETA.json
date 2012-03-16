@@ -1,0 +1,120 @@
+{
+   "abstract" : "Provide a simple Login controller which can be reused",
+   "author" : [
+      "=over"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.01, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "CatalystX-SimpleLogin",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Catalyst::Action::RenderView" : 0,
+            "Catalyst::ActionRole::ACL" : 0,
+            "Catalyst::Controller::ActionRole" : "0.12",
+            "Catalyst::Plugin::Session::State::Cookie" : 0,
+            "Catalyst::Plugin::Session::Store::File" : 0,
+            "CatalystX::InjectComponent" : 0,
+            "ExtUtils::MakeMaker" : "6.42",
+            "HTTP::Request::Common" : 0,
+            "SQL::Translator" : 0,
+            "Test::Exception" : 0,
+            "Test::More" : "0.94"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Action::REST" : "0.74",
+            "Catalyst::Action::RenderView" : 0,
+            "Catalyst::ActionRole::ACL" : 0,
+            "Catalyst::Controller::ActionRole" : "0.12",
+            "Catalyst::Plugin::Authentication" : 0,
+            "Catalyst::Plugin::Session" : "0.27",
+            "Catalyst::Plugin::Session::State::Cookie" : 0,
+            "Catalyst::Plugin::Session::Store::File" : 0,
+            "Catalyst::Runtime" : "5.80013",
+            "Catalyst::View::TT" : 0,
+            "CatalystX::Component::Traits" : "0.13",
+            "CatalystX::InjectComponent" : 0,
+            "HTML::FormHandler" : "0.28001",
+            "HTTP::Request::Common" : 0,
+            "Moose" : 0,
+            "Moose::Autobox" : 0,
+            "MooseX::MethodAttributes" : "0.18",
+            "MooseX::RelatedClassRoles" : "0.004",
+            "MooseX::Types" : 0,
+            "MooseX::Types::Common" : 0,
+            "SQL::Translator" : 0,
+            "Test::Exception" : 0,
+            "Test::More" : "0.94",
+            "namespace::autoclean" : 0
+         }
+      }
+   },
+   "provides" : {
+      "Catalyst::ActionRole::NeedsLogin" : {
+         "file" : "lib/Catalyst/ActionRole/NeedsLogin.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin" : {
+         "file" : "lib/CatalystX/SimpleLogin.pm",
+         "version" : "0.15"
+      },
+      "CatalystX::SimpleLogin::Controller::Login" : {
+         "file" : "lib/CatalystX/SimpleLogin/Controller/Login.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin::Form::Login" : {
+         "file" : "lib/CatalystX/SimpleLogin/Form/Login.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin::Form::LoginOpenID" : {
+         "file" : "lib/CatalystX/SimpleLogin/Form/LoginOpenID.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin::TraitFor::Controller::Login::Logout" : {
+         "file" : "lib/CatalystX/SimpleLogin/TraitFor/Controller/Login/Logout.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin::TraitFor::Controller::Login::OpenID" : {
+         "file" : "lib/CatalystX/SimpleLogin/TraitFor/Controller/Login/OpenID.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin::TraitFor::Controller::Login::RenderAsTTTemplate" : {
+         "file" : "lib/CatalystX/SimpleLogin/TraitFor/Controller/Login/RenderAsTTTemplate.pm",
+         "version" : 0
+      },
+      "CatalystX::SimpleLogin::TraitFor::Controller::Login::WithRedirect" : {
+         "file" : "lib/CatalystX/SimpleLogin/TraitFor/Controller/Login/WithRedirect.pm",
+         "version" : 0
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/bobtfish/catalystx-simplelogin.git"
+      }
+   },
+   "version" : "0.15"
+}

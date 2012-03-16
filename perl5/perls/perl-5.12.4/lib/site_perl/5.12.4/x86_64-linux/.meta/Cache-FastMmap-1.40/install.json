@@ -1,0 +1,1 @@
+{"provides":{"Cache::FastMmap":{"version":"1.40","file":"Cache/FastMmap.pm"},"Cache::FastMmap::OnLeave":{"file":"Cache/FastMmap.pm"}},"version":"1.40","name":"Cache::FastMmap","dist":"Cache-FastMmap-1.40","pathname":"R/RO/ROBM/Cache-FastMmap-1.40.tar.gz","module":"Cache::FastMmap"}

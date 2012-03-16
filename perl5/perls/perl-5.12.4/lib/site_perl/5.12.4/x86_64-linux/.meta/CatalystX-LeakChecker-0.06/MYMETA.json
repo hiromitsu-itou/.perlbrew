@@ -1,0 +1,45 @@
+{
+   "abstract" : "Debug memory leaks in Catalyst applications",
+   "author" : [
+      "Florian Ragwitz <rafl@debian.org>",
+      "Tomas Doran <bobtfish@bobtfish.net>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 1.100711, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "CatalystX-LeakChecker",
+   "prereqs" : {
+      "build" : {
+         "requires" : {}
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.11"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "B::Deparse" : 0,
+            "Catalyst" : "5.8",
+            "Devel::Cycle" : "1.11",
+            "FindBin" : 0,
+            "Moose" : "0.90",
+            "MooseX::Types" : 0,
+            "PadWalker" : "1.8",
+            "Task::Weaken" : 0,
+            "Test::More" : "0.88",
+            "Text::SimpleTable" : 0,
+            "namespace::autoclean" : 0,
+            "namespace::clean" : "0.05"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.06"
+}

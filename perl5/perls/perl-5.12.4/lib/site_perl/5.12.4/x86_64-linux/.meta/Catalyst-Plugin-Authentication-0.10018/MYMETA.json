@@ -1,0 +1,61 @@
+{
+   "abstract" : "Infrastructure plugin for the Catalyst",
+   "author" : [
+      "Yuval Kogman, C<nothingmuch@woobling.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.01, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Authentication",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "Class::MOP" : 0,
+            "ExtUtils::MakeMaker" : "6.42",
+            "Moose" : 0,
+            "Test::Exception" : 0,
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Plugin::Session" : "0.10",
+            "Catalyst::Runtime" : 0,
+            "Class::Inspector" : 0,
+            "Class::MOP" : 0,
+            "MRO::Compat" : 0,
+            "Moose" : 0,
+            "Test::Exception" : 0,
+            "Test::More" : "0.88",
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Authentication/0.10000/trunk"
+      }
+   },
+   "version" : "0.10018"
+}

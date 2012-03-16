@@ -1,0 +1,13 @@
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/Helper/Model/DBIC/Schema.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/Model/DBIC/Schema.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/Model/DBIC/Schema/Types.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/TraitFor/Model/DBIC/Schema/Caching.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/TraitFor/Model/DBIC/Schema/PerRequestSchema.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/TraitFor/Model/DBIC/Schema/Replicated.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4/Catalyst/TraitFor/Model/DBIC/Schema/SchemaProxy.pm
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/man/man3/Catalyst::Helper::Model::DBIC::Schema.3
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/man/man3/Catalyst::Model::DBIC::Schema.3
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::Caching.3
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::PerRequestSchema.3
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::Replicated.3
+/home/ito/.perlbrew/perl5/perls/perl-5.12.4/man/man3/Catalyst::TraitFor::Model::DBIC::Schema::SchemaProxy.3

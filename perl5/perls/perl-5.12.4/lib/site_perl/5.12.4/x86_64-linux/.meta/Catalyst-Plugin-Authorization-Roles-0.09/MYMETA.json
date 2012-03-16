@@ -1,0 +1,55 @@
+{
+   "abstract" : "Role based authorization for Catalyst based on Catalyst::Plugin::Authentication",
+   "author" : [
+      "Yuval Kogman <nothingmuch@woobling.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.99, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Plugin-Authorization-Roles",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::Exception" : 0,
+            "Test::More" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Plugin::Authentication" : "0.10003",
+            "Catalyst::Runtime" : "5.7",
+            "Set::Object" : "1.14",
+            "UNIVERSAL::isa" : "0.05",
+            "perl" : "5.008"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-Plugin-Authorization-Roles/"
+      }
+   },
+   "version" : "0.09"
+}

@@ -1,0 +1,36 @@
+{
+   "abstract" : "parses \"folksonomy\" space-separated tags (stub module)",
+   "author" : [
+      "David Glasser <glasser@bestpractical.com>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 0.63, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Text-Tags",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Test::More" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.04"
+}

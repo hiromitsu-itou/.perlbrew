@@ -1,0 +1,8690 @@
+=head2 Tue Jan 31 15:11:51 2012: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.5007>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Tue Jan 31 15:12:41 2012: C<Module> L<Imager|Imager>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.87>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Jan 31 15:14:19 2012: C<Module> L<Image::ObjectDetect|Image::ObjectDetect>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:21:51 2012: C<Module> L<HTML::Tagset|HTML::Tagset>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:01 2012: C<Module> L<HTML::Parser|HTML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.69>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:03 2012: C<Module> L<HTML::FillInForm|HTML::FillInForm>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:12 2012: C<Module> L<Params::Util|Params::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:16 2012: C<Module> L<Sub::Install|Sub::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.925>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:26 2012: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.98>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:27 2012: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.107>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:28 2012: C<Module> L<Sub::Exporter|Sub::Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.982>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:43 2012: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:43 2012: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:50 2012: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:51 2012: C<Module> L<Dist::CheckConflicts|Dist::CheckConflicts>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:56 2012: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:22:56 2012: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:01 2012: C<Module> L<Package::Stash::XS|Package::Stash::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:02 2012: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: bin/package-stash-conflicts>
+
+=back
+
+=head2 Wed Feb  1 15:23:05 2012: C<Module> L<Sub::Name|Sub::Name>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:08 2012: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:16 2012: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.47>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:17 2012: C<Module> L<B::Hooks::EndOfScope|B::Hooks::EndOfScope>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:20 2012: C<Module> L<namespace::clean|namespace::clean>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:38 2012: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:41 2012: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:23:55 2012: C<Module> L<Class::Load|Class::Load>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:24:00 2012: C<Module> L<Eval::Closure|Eval::Closure>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:24:03 2012: C<Module> L<Devel::GlobalDestruction|Devel::GlobalDestruction>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:25:38 2012: C<Module> L<Moose|Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.0401>
+
+=item *
+
+C<EXE_FILES: bin/moose-outdated>
+
+=back
+
+=head2 Wed Feb  1 15:25:41 2012: C<Module> L<MooseX::Emulate::Class::Accessor::Fast|MooseX::Emulate::Class::Accessor::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.00903>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:25:49 2012: C<Module> L<Carp::Clan|Carp::Clan>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:25:53 2012: C<Module> L<MooseX::Types|MooseX::Types>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:25:57 2012: C<Module> L<namespace::autoclean|namespace::autoclean>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:02 2012: C<Module> L<MooseX::Role::WithOverloading|MooseX::Role::WithOverloading>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:39 2012: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.59>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:42 2012: C<Module> L<LWP::MediaTypes|LWP::MediaTypes>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:45 2012: C<Module> L<Encode::Locale|Encode::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:48 2012: C<Module> L<HTTP::Date|HTTP::Date>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:50 2012: C<Module> L<HTTP::Message|HTTP::Message>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:26:53 2012: C<Module> L<Data::Dump|Data::Dump>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:27:03 2012: C<Module> L<Test::SharedFork|Test::SharedFork>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:27:15 2012: C<Module> L<Test::TCP|Test::TCP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:27:49 2012: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.62>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Wed Feb  1 15:27:53 2012: C<Module> L<Hash::MultiValue|Hash::MultiValue>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:27:56 2012: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:05 2012: C<Module> L<Test::Tester|Test::Tester>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.108>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:08 2012: C<Module> L<Test::NoWarnings|Test::NoWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:11 2012: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.108>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:12 2012: C<Module> L<HTTP::Body|HTTP::Body>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:17 2012: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:18 2012: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:28 2012: C<Module> L<Filesys::Notify::Simple|Filesys::Notify::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:34 2012: C<Module> L<HTTP::Negotiate|HTTP::Negotiate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:42 2012: C<Module> L<File::Listing|File::Listing>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:49 2012: C<Module> L<HTTP::Daemon|HTTP::Daemon>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:52 2012: C<Module> L<Net::HTTP|Net::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:28:55 2012: C<Module> L<HTTP::Cookies|HTTP::Cookies>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:29:02 2012: C<Module> L<WWW::RobotRules|WWW::RobotRules>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:29:17 2012: C<Module> L<LWP|LWP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.03>
+
+=item *
+
+C<EXE_FILES: bin/lwp-request bin/lwp-mirror bin/lwp-download bin/lwp-dump>
+
+=back
+
+=head2 Wed Feb  1 15:29:20 2012: C<Module> L<Devel::StackTrace::AsHTML|Devel::StackTrace::AsHTML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:29:35 2012: C<Module> L<Plack|Plack>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9985>
+
+=item *
+
+C<EXE_FILES: scripts/plackup>
+
+=back
+
+=head2 Wed Feb  1 15:29:36 2012: C<Module> L<Plack::Test::ExternalServer|Plack::Test::ExternalServer>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:29:48 2012: C<Module> L<IO::Stringy|IO::Stringy>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.110>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:30:08 2012: C<Module> L<String::RewritePrefix|String::RewritePrefix>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:30:12 2012: C<Module> L<Tree::Simple::VisitorFactory|Tree::Simple::VisitorFactory>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:30:21 2012: C<Module> L<Tree::DAG_Node|Tree::DAG_Node>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:30:31 2012: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:30:41 2012: C<Module> L<MooseX::Role::Parameterized|MooseX::Role::Parameterized>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:30:51 2012: C<Module> L<Getopt::Long::Descriptive|Getopt::Long::Descriptive>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.090>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:01 2012: C<Module> L<MooseX::Getopt|MooseX::Getopt>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:07 2012: C<Module> L<MooseX::Types::LoadableClass|MooseX::Types::LoadableClass>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:13 2012: C<Module> L<Class::Data::Inheritable|Class::Data::Inheritable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:17 2012: C<Module> L<MooseX::Types::Common|MooseX::Types::Common>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:29 2012: C<Module> L<MooseX::MethodAttributes|MooseX::MethodAttributes>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:35 2012: C<Module> L<Class::Accessor|Class::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:36 2012: C<Module> L<HTTP::Request::AsCGI|HTTP::Request::AsCGI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:39 2012: C<Module> L<Class::C3::Adopt::NEXT|Class::C3::Adopt::NEXT>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:48 2012: C<Module> L<Spiffy|Spiffy>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:31:54 2012: C<Module> L<Test::Base|Test::Base>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.60>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:32:02 2012: C<Module> L<YAML|YAML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.78>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:32:02 2012: C<Module> L<Plack::Middleware::ReverseProxy|Plack::Middleware::ReverseProxy>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:32:09 2012: C<Module> L<Text::SimpleTable|Text::SimpleTable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:35:04 2012: C<Module> L<Catalyst::Runtime|Catalyst::Runtime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.90007>
+
+=item *
+
+C<EXE_FILES: script/catalyst.pl>
+
+=back
+
+=head2 Wed Feb  1 15:35:17 2012: C<Module> L<Test::use::ok|Test::use::ok>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:35:18 2012: C<Module> L<Tie::ToObject|Tie::ToObject>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:35:21 2012: C<Module> L<Data::Visitor|Data::Visitor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:35:22 2012: C<Module> L<Catalyst::Action::RenderView|Catalyst::Action::RenderView>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:35:26 2012: C<Module> L<Catalyst::Plugin::FillInForm|Catalyst::Plugin::FillInForm>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:39:41 2012: C<Module> L<Object::Signature|Object::Signature>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:39:43 2012: C<Module> L<Catalyst::Plugin::Session|Catalyst::Plugin::Session>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:39:45 2012: C<Module> L<Catalyst::Plugin::Session::State::Cookie|Catalyst::Plugin::Session::State::Cookie>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:40:08 2012: C<Module> L<HTTP::Server::Simple|HTTP::Server::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:40:11 2012: C<Module> L<HTML::Form|HTML::Form>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:41:47 2012: C<Module> L<WWW::Mechanize|WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.71>
+
+=item *
+
+C<EXE_FILES: bin/mech-dump>
+
+=back
+
+=head2 Wed Feb  1 15:41:51 2012: C<Module> L<Test::LongString|Test::LongString>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:41:56 2012: C<Module> L<Carp::Assert|Carp::Assert>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:41:57 2012: C<Module> L<Carp::Assert::More|Carp::Assert::More>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:42:27 2012: C<Module> L<Test::WWW::Mechanize|Test::WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:42:36 2012: C<Module> L<Test::WWW::Mechanize::Catalyst|Test::WWW::Mechanize::Catalyst>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.56>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:42:37 2012: C<Module> L<Catalyst::Plugin::Unicode|Catalyst::Plugin::Unicode>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.93>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:47:27 2012: C<Module> L<Cache::FastMmap|Cache::FastMmap>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:47:30 2012: C<Module> L<Catalyst::Plugin::Session::Store::FastMmap|Catalyst::Plugin::Session::Store::FastMmap>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:47:49 2012: C<Module> L<XML::NamespaceSupport|XML::NamespaceSupport>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:47:53 2012: C<Module> L<XML::SAX::Base|XML::SAX::Base>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:47:55 2012: C<Module> L<XML::SAX|XML::SAX>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:48:05 2012: C<Module> L<XML::Parser|XML::Parser>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:48:05 2012: C<Module> L<XML::SAX::Expat|XML::SAX::Expat>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.40>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:48:18 2012: C<Module> L<XML::Simple|XML::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:48:30 2012: C<Module> L<Text::CSV|Text::CSV>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:48:32 2012: C<Module> L<Catalyst::View::Download|Catalyst::View::Download>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:53:47 2012: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.617>
+
+=item *
+
+C<EXE_FILES: dbiproxy dbiprof dbilogstrip>
+
+=back
+
+=head2 Wed Feb  1 15:54:29 2012: C<Module> L<DBD::SQLite|DBD::SQLite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:54:38 2012: C<Module> L<MooseX::Traits::Pluggable|MooseX::Traits::Pluggable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:54:43 2012: C<Module> L<CatalystX::Component::Traits|CatalystX::Component::Traits>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:54:49 2012: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:54:52 2012: C<Module> L<Data::Dumper::Concise|Data::Dumper::Concise>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.020>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:54:55 2012: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:07 2012: C<Module> L<Class::XSAccessor|Class::XSAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:08 2012: C<Module> L<Class::Accessor::Grouped|Class::Accessor::Grouped>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:13 2012: C<Module> L<Clone|Clone>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:14 2012: C<Module> L<Hash::Merge|Hash::Merge>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:18 2012: C<Module> L<SQL::Abstract|SQL::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.72>
+
+=item *
+
+C<EXE_FILES: script/format-sql>
+
+=back
+
+=head2 Wed Feb  1 15:55:20 2012: C<Module> L<Context::Preserve|Context::Preserve>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:37 2012: C<Module> L<Number::Compare|Number::Compare>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:38 2012: C<Module> L<File::Find::Rule|File::Find::Rule>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: findrule>
+
+=back
+
+=head2 Wed Feb  1 15:55:39 2012: C<Module> L<Data::Compare|Data::Compare>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:45 2012: C<Module> L<Class::C3|Class::C3>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:46 2012: C<Module> L<Class::C3::Componentised|Class::C3::Componentised>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.001000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:55:49 2012: C<Module> L<Module::Find|Module::Find>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:57:31 2012: C<Module> L<DBIx::Class|DBIx::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08196>
+
+=item *
+
+C<EXE_FILES: script/dbicadmin>
+
+=back
+
+=head2 Wed Feb  1 15:57:39 2012: C<Module> L<Catalyst::Component::InstancePerContext|Catalyst::Component::InstancePerContext>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:57:44 2012: C<Module> L<Catalyst::Model::DBIC::Schema|Catalyst::Model::DBIC::Schema>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.59>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:59:04 2012: C<Module> L<TimeDate|TimeDate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:59:08 2012: C<Module> L<Mail|Mail>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:59:33 2012: C<Module> L<Email::Valid|Email::Valid>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.187>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:59:41 2012: C<Module> L<Class::Singleton|Class::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 15:59:45 2012: C<Module> L<DateTime::TimeZone|DateTime::TimeZone>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:00:16 2012: C<Module> L<Math::Round|Math::Round>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:00:49 2012: C<Module> L<DateTime::Format::Strptime|DateTime::Format::Strptime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.5000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:07 2012: C<Module> L<Bit::Vector|Bit::Vector>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:11 2012: C<Module> L<Date::Calc|Date::Calc>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.3>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:14 2012: C<Module> L<UNIVERSAL::require|UNIVERSAL::require>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:17 2012: C<Module> L<Class::Data::Accessor|Class::Data::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:20 2012: C<Module> L<Email::Valid::Loose|Email::Valid::Loose>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:26 2012: C<Module> L<FormValidator::Simple|FormValidator::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:29 2012: C<Module> L<Unicode::RecursiveDowngrade|Unicode::RecursiveDowngrade>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:31 2012: C<Module> L<Mail::Address::MobileJp|Mail::Address::MobileJp>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:01:35 2012: C<Module> L<Jcode|Jcode>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:02:00 2012: C<Module> L<Number::Phone::JP|Number::Phone::JP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20120105>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:02:01 2012: C<Module> L<FormValidator::Simple::Plugin::Number::Phone::JP|FormValidator::Simple::Plugin::Number::Phone::JP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:02:02 2012: C<Module> L<FormValidator::Simple::Plugin::Japanese|FormValidator::Simple::Plugin::Japanese>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:03:37 2012: C<Module> L<Unicode::Japanese|Unicode::Japanese>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.47>
+
+=item *
+
+C<EXE_FILES: bin/ujconv bin/ujguess>
+
+=back
+
+=head2 Wed Feb  1 16:04:03 2012: C<Module> L<Data::Recursive::Encode|Data::Recursive::Encode>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:04:26 2012: C<Module> L<install|install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:04:47 2012: C<Module> L<AppConfig|AppConfig>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.66>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:05:10 2012: C<Module> L<Template|Template>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.23>
+
+=item *
+
+C<EXE_FILES: bin/tpage bin/ttree>
+
+=back
+
+=head2 Wed Feb  1 16:05:19 2012: C<Module> L<Email::Date::Format|Email::Date::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:05:21 2012: C<Module> L<MIME::Types|MIME::Types>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:05:22 2012: C<Module> L<MIME::Lite|MIME::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.028>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:05:23 2012: C<Module> L<MIME::Lite::TT|MIME::Lite::TT>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:05:37 2012: C<Module> L<MIME::Lite::TT::Japanese|MIME::Lite::TT::Japanese>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:08:53 2012: C<Module> L<Template::Plugin::DateTime|Template::Plugin::DateTime>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:12:17 2012: C<Module> L<Catalyst::Plugin::ConfigLoader|Catalyst::Plugin::ConfigLoader>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:12:23 2012: C<Module> L<Net::Server|Net::Server>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:12:26 2012: C<Module> L<HTTP::Parser::XS|HTTP::Parser::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:12:30 2012: C<Module> L<Starman|Starman>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2014>
+
+=item *
+
+C<EXE_FILES: bin/starman>
+
+=back
+
+=head2 Wed Feb  1 16:12:54 2012: C<Module> L<PadWalker|PadWalker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.92>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:12:55 2012: C<Module> L<Devel::Caller|Devel::Caller>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:12:58 2012: C<Module> L<MooseX::Params::Validate|MooseX::Params::Validate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:13:01 2012: C<Module> L<MooseX::SemiAffordanceAccessor|MooseX::SemiAffordanceAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:13:07 2012: C<Module> L<Config::General|Config::General>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:13:15 2012: C<Module> L<MooseX::Types::Path::Class|MooseX::Types::Path::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:13:35 2012: C<Module> L<MooseX::Daemonize|MooseX::Daemonize>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:13:47 2012: C<Module> L<Catalyst::Plugin::Static::Simple|Catalyst::Plugin::Static::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:13:58 2012: C<Module> L<YAML::Tiny|YAML::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:14:06 2012: C<Module> L<File::Remove|File::Remove>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.51>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:14:08 2012: C<Module> L<PAR::Dist|PAR::Dist>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:14:53 2012: C<Module> L<Module::ScanDeps|Module::ScanDeps>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: script/scandeps.pl>
+
+=back
+
+=head2 Wed Feb  1 16:15:00 2012: C<Module> L<common::sense|common::sense>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:15:07 2012: C<Module> L<JSON::XS|JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.32>
+
+=item *
+
+C<EXE_FILES: bin/json_xs>
+
+=back
+
+=head2 Wed Feb  1 16:15:13 2012: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.53>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:15:43 2012: C<Module> L<Module::Install|Module::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  1 16:15:47 2012: C<Module> L<Catalyst::Devel|Catalyst::Devel>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:29 2012: C<Module> L<UNIVERSAL::isa|UNIVERSAL::isa>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20110614>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:31 2012: C<Module> L<UNIVERSAL::can|UNIVERSAL::can>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20110617>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:32 2012: C<Module> L<Test::MockObject|Test::MockObject>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20110612>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:37 2012: C<Module> L<Data::UUID|Data::UUID>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.217>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:50 2012: C<Module> L<Catalyst::Plugin::Authentication|Catalyst::Plugin::Authentication>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10018>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:53 2012: C<Module> L<String::Escape|String::Escape>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2010.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:13:56 2012: C<Module> L<Catalyst::Authentication::Credential::HTTP|Catalyst::Authentication::Credential::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:14:14 2012: C<Module> L<YAML::Syck|YAML::Syck>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:14:45 2012: C<Module> L<Catalyst::Action::REST|Catalyst::Action::REST>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.96>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:14:49 2012: C<Module> L<Devel::Cycle|Devel::Cycle>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:14:51 2012: C<Module> L<CatalystX::LeakChecker|CatalystX::LeakChecker>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:14:59 2012: C<Module> L<Catalyst::Controller::ActionRole|Catalyst::Controller::ActionRole>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:15:03 2012: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.008004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:15:13 2012: C<Module> L<Catalyst::Authentication::Store::DBIx::Class|Catalyst::Authentication::Store::DBIx::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1503>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:15:19 2012: C<Module> L<Catalyst::ActionRole::ACL|Catalyst::ActionRole::ACL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:15:25 2012: C<Module> L<Template::Timer|Template::Timer>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:15:35 2012: C<Module> L<Catalyst::View::TT|Catalyst::View::TT>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:15:48 2012: C<Module> L<Digest::SHA1|Digest::SHA1>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:17:12 2012: C<Module> L<Cache::Cache|Cache::Cache>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:17:15 2012: C<Module> L<Catalyst::Plugin::Session::Store::File|Catalyst::Plugin::Session::Store::File>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:17:24 2012: C<Module> L<JSON::Any|JSON::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:00 2012: C<Module> L<Devel::NYTProf|Devel::NYTProf>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.06>
+
+=item *
+
+C<EXE_FILES: bin/nytprofhtml bin/nytprofcsv bin/nytprofcg bin/nytprofmerge>
+
+=back
+
+=head2 Wed Feb  8 12:19:21 2012: C<Module> L<Test::Harness|Test::Harness>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.23>
+
+=item *
+
+C<EXE_FILES: bin/prove>
+
+=back
+
+=head2 Wed Feb  8 12:19:24 2012: C<Module> L<Exception::Class|Exception::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.32>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:29 2012: C<Module> L<Algorithm::Diff|Algorithm::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1902>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:30 2012: C<Module> L<Text::Diff|Text::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:33 2012: C<Module> L<Data::Dumper|Data::Dumper>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.131>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:39 2012: C<Module> L<CatalystX::InjectComponent|CatalystX::InjectComponent>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.024>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:41 2012: C<Module> L<CatalystX::Profile|CatalystX::Profile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:49 2012: C<Module> L<Catalyst::Model::Adaptor|Catalyst::Model::Adaptor>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:52 2012: C<Module> L<FCGI::ProcManager|FCGI::ProcManager>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:19:57 2012: C<Module> L<Devel::StackTrace::WithLexicals|Devel::StackTrace::WithLexicals>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:20:02 2012: C<Module> L<ExtUtils::Depends|ExtUtils::Depends>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.304>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:20:06 2012: C<Module> L<B::Utils|B::Utils>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:20:43 2012: C<Module> L<IO::Tty|IO::Tty>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:21:34 2012: C<Module> L<Expect|Expect>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:21:36 2012: C<Module> L<Expect::Simple|Expect::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:21:39 2012: C<Module> L<Devel::LexAlias|Devel::LexAlias>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:21:46 2012: C<Module> L<Test::Object|Test::Object>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:21:50 2012: C<Module> L<Test::SubCalls|Test::SubCalls>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:21:52 2012: C<Module> L<IO::String|IO::String>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:20 2012: C<Module> L<PPI|PPI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.215>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:24 2012: C<Module> L<MooseX::Object::Pluggable|MooseX::Object::Pluggable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0011>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:31 2012: C<Module> L<Sys::SigAction|Sys::SigAction>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:36 2012: C<Module> L<Lexical::Persistence|Lexical::Persistence>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.020>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:47 2012: C<Module> L<IPC::Run3|IPC::Run3>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.045>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:48 2012: C<Module> L<Test::Script|Test::Script>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:22:49 2012: C<Module> L<File::Which|File::Which>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.09>
+
+=item *
+
+C<EXE_FILES: script/pwhich>
+
+=back
+
+=head2 Wed Feb  8 12:22:50 2012: C<Module> L<File::HomeDir|File::HomeDir>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:01 2012: C<Module> L<MooseX::AttributeHelpers|MooseX::AttributeHelpers>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:03 2012: C<Module> L<Devel::REPL|Devel::REPL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003012>
+
+=item *
+
+C<EXE_FILES: script/re.pl>
+
+=back
+
+=head2 Wed Feb  8 12:23:15 2012: C<Module> L<Carp::REPL|Carp::REPL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:17 2012: C<Module> L<CatalystX::REPL|CatalystX::REPL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:28 2012: C<Module> L<Catalyst::Plugin::Session::Store::Delegate|Catalyst::Plugin::Session::Store::Delegate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:31 2012: C<Module> L<Catalyst::Plugin::Session::Store::DBIC|Catalyst::Plugin::Session::Store::DBIC>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:37 2012: C<Module> L<FCGI|FCGI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:41 2012: C<Module> L<Catalyst::Manual|Catalyst::Manual>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.9002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:48 2012: C<Module> L<Email::Simple|Email::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.101>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:52 2012: C<Module> L<Email::Address|Email::Address>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.895>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:53 2012: C<Module> L<Email::MessageID|Email::MessageID>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.402>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:56 2012: C<Module> L<Email::MIME::Encodings|Email::MIME::Encodings>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.313>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:23:58 2012: C<Module> L<Email::MIME::ContentType|Email::MIME::ContentType>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.015>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:00 2012: C<Module> L<Email::MIME|Email::MIME>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.910>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:04 2012: C<Module> L<Digest::HMAC|Digest::HMAC>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:06 2012: C<Module> L<Authen::SASL|Authen::SASL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:35 2012: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:38 2012: C<Module> L<Throwable|Throwable>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.102080>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:41 2012: C<Module> L<Email::Abstract|Email::Abstract>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:47 2012: C<Module> L<Email::Sender|Email::Sender>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.110003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:52 2012: C<Module> L<Catalyst::View::Email|Catalyst::View::Email>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:24:59 2012: C<Module> L<Catalyst::Plugin::StackTrace|Catalyst::Plugin::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:25:18 2012: C<Module> L<Class::Base|Class::Base>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:25:22 2012: C<Module> L<strictures|strictures>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:25:25 2012: C<Module> L<Class::Method::Modifiers|Class::Method::Modifiers>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:25:27 2012: C<Module> L<Moo|Moo>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.009013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:25:41 2012: C<Module> L<Class::MakeMethods|Class::MakeMethods>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:25:43 2012: C<Module> L<XML::Writer|XML::Writer>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.615>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:26:13 2012: C<Module> L<SQL::Translator|SQL::Translator>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11010>
+
+=item *
+
+C<EXE_FILES: script/sqlt-diagram script/sqlt-diff script/sqlt-diff-old script/sqlt-dumper script/sqlt-graph script/sqlt>
+
+=back
+
+=head2 Wed Feb  8 12:26:15 2012: C<Module> L<MooseX::RelatedClassRoles|MooseX::RelatedClassRoles>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:26:21 2012: C<Module> L<autobox|autobox>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:26:23 2012: C<Module> L<Perl6::Junction|Perl6::Junction>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.40000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:26:28 2012: C<Module> L<Moose::Autobox|Moose::Autobox>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:26:32 2012: C<Module> L<File::ShareDir::Install|File::ShareDir::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:26:35 2012: C<Module> L<Test::Memory::Cycle|Test::Memory::Cycle>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:27:50 2012: C<Module> L<HTML::FormHandler|HTML::FormHandler>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:28:13 2012: C<Module> L<CatalystX::SimpleLogin|CatalystX::SimpleLogin>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:28:24 2012: C<Module> L<Catalyst::Plugin::Unicode::Encoding|Catalyst::Plugin::Unicode::Encoding>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.3>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:28:31 2012: C<Module> L<Locale-Maketext|Locale-Maketext>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:28:34 2012: C<Module> L<Locale::Maketext::Lexicon|Locale::Maketext::Lexicon>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.91>
+
+=item *
+
+C<EXE_FILES: script/xgettext.pl>
+
+=back
+
+=head2 Wed Feb  8 12:28:36 2012: C<Module> L<Catalyst::Plugin::I18N|Catalyst::Plugin::I18N>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 12:28:37 2012: C<Module> L<Task::Catalyst|Task::Catalyst>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:02:12 2012: C<Module> L<Module::Metadata|Module::Metadata>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000007>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:02:14 2012: C<Module> L<Perl::OSType|Perl::OSType>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:03:27 2012: C<Module> L<Image::Size|Image::Size>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.230>
+
+=item *
+
+C<EXE_FILES: imgsize>
+
+=back
+
+=head2 Wed Feb  8 14:04:01 2012: C<Module> L<Regexp::Common|Regexp::Common>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2011121001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:04:03 2012: C<Module> L<File::MMagic|File::MMagic>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:04:09 2012: C<Module> L<Catalyst::Plugin::FormValidator|Catalyst::Plugin::FormValidator>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.094>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:04:10 2012: C<Module> L<Catalyst::Plugin::FormValidator::Simple|Catalyst::Plugin::FormValidator::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:04:16 2012: C<Module> L<Catalyst::View::JSON|Catalyst::View::JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:04:20 2012: C<Module> L<FormValidator::Simple::Plugin::DBIC::Unique|FormValidator::Simple::Plugin::DBIC::Unique>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:11:33 2012: C<Module> L<MooseX::NonMoose|MooseX::NonMoose>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:11:35 2012: C<Module> L<Devel::Leak::Module|Devel::Leak::Module>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: script/perlbloat>
+
+=back
+
+=head2 Wed Feb  8 14:11:49 2012: C<Module> L<MooseX::MarkAsMethods|MooseX::MarkAsMethods>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:11:52 2012: C<Module> L<Array::Diff|Array::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:13:25 2012: C<Module> L<Date::Simple|Date::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:15:09 2012: C<Module> L<Cache::Memcached::Fast|Cache::Memcached::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 14:24:21 2012: C<Module> L<DBD::mysql|DBD::mysql>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.020>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Feb  8 16:08:09 2012: C<Module> L<File::Slurp|File::Slurp>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 9999.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 14:14:48 2012: C<Module> L<Text::Markdown|Text::Markdown>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000031>
+
+=item *
+
+C<EXE_FILES: script/Markdown.pl>
+
+=back
+
+=head2 Thu Feb  9 16:24:12 2012: C<Module> L<DBIx::Class::IntrospectableM2M|DBIx::Class::IntrospectableM2M>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.001001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:24:14 2012: C<Module> L<Class::Unload|Class::Unload>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:24:28 2012: C<Module> L<Lingua::PT::Stemmer|Lingua::PT::Stemmer>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:24:30 2012: C<Module> L<Lingua::Stem::It|Lingua::Stem::It>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:24:41 2012: C<Module> L<Text::German|Text::German>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:24:55 2012: C<Module> L<Lingua::Stem::Fr|Lingua::Stem::Fr>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:24:59 2012: C<Module> L<Lingua::Stem::Snowball::Da|Lingua::Stem::Snowball::Da>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:01 2012: C<Module> L<Lingua::Stem::Ru|Lingua::Stem::Ru>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:09 2012: C<Module> L<Memoize::ExpireLRU|Memoize::ExpireLRU>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.55>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:12 2012: C<Module> L<Lingua::EN::Tagger|Lingua::EN::Tagger>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.16>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:14 2012: C<Module> L<Lingua::EN::Inflect::Number|Lingua::EN::Inflect::Number>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:15 2012: C<Module> L<Lingua::EN::Inflect::Phrase|Lingua::EN::Inflect::Phrase>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:18 2012: C<Module> L<String::CamelCase|String::CamelCase>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:22 2012: C<Module> L<Text::Unidecode|Text::Unidecode>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:25:24 2012: C<Module> L<String::ToIdentifier::EN|String::ToIdentifier::EN>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Feb  9 16:26:13 2012: C<Module> L<DBIx::Class::Schema::Loader|DBIx::Class::Schema::Loader>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07017>
+
+=item *
+
+C<EXE_FILES: script/dbicdump>
+
+=back
+
+=head2 Sat Feb 18 20:02:58 2012: C<Module> L<SOAP::Lite|SOAP::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.714>
+
+=item *
+
+C<EXE_FILES: bin/SOAPsh.pl bin/XMLRPCsh.pl bin/stubmaker.pl>
+
+=back
+
+=head2 Sat Feb 18 20:03:00 2012: C<Module> L<Business::PayPal::API|Business::PayPal::API>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.69>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:22:53 2012: C<Module> L<Log::Log4perl|Log::Log4perl>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.35>
+
+=item *
+
+C<EXE_FILES: eg/l4p-tmpl>
+
+=back
+
+=head2 Sun Feb 19 15:24:11 2012: C<Module> L<Set::Object|Set::Object>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:24:12 2012: C<Module> L<Catalyst::Plugin::Authorization::Roles|Catalyst::Plugin::Authorization::Roles>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:24:55 2012: C<Module> L<XML::LibXML|XML::LibXML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.90>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:26:12 2012: C<Module> L<FormValidator::Simple::Plugin::Trim|FormValidator::Simple::Plugin::Trim>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.00>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:34:00 2012: C<Module> L<Catalyst::View::FLT::Download::CSV|Catalyst::View::FLT::Download::CSV>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:36:00 2012: C<Module> L<Text::CSV::Encoded|Text::CSV::Encoded>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:36:43 2012: C<Module> L<NetAddr::IP|NetAddr::IP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.058>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:36:57 2012: C<Module> L<Crypt::CBC|Crypt::CBC>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:37:41 2012: C<Module> L<Crypt::Blowfish|Crypt::Blowfish>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:38:14 2012: C<Module> L<LWP::Online|LWP::Online>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:38:23 2012: C<Module> L<XML::XPathEngine|XML::XPathEngine>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:38:24 2012: C<Module> L<HTML::TreeBuilder::XPath|HTML::TreeBuilder::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:38:26 2012: C<Module> L<HTML::Selector::XPath|HTML::Selector::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:38:29 2012: C<Module> L<Web::Scraper|Web::Scraper>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: bin/scraper>
+
+=back
+
+=head2 Sun Feb 19 15:38:38 2012: C<Module> L<HTML-TableExtract|HTML-TableExtract>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:38:40 2012: C<Module> L<WWW::MobileCarrierJP|WWW::MobileCarrierJP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.62>
+
+=item *
+
+C<EXE_FILES: tools/www-mobilecarrierjp-dump_all.pl>
+
+=back
+
+=head2 Sun Feb 19 15:38:43 2012: C<Module> L<HTTP::MobileAgent|HTTP::MobileAgent>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.35>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:39:20 2012: C<Module> L<Readonly|Readonly>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:39:54 2012: C<Module> L<MIME::tools|MIME::tools>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.502>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:40:17 2012: C<Module> L<Encode::JP::Mobile|Encode::JP::Mobile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:40:37 2012: C<Module> L<Class::OOorNO|Class::OOorNO>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.011>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:40:38 2012: C<Module> L<Exception::Handler|Exception::Handler>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:40:39 2012: C<Module> L<File::Util|File::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:41:07 2012: C<Module> L<String::CRC32|String::CRC32>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:41:09 2012: C<Module> L<Gearman|Gearman>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:42:06 2012: C<Module> L<DBIx::Class::Tree|DBIx::Class::Tree>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:43:03 2012: C<Module> L<Time::Elapse|Time::Elapse>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.2402>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:43:43 2012: C<Module> L<Return::Value|Return::Value>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.666001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:43:45 2012: C<Module> L<Email::Send|Email::Send>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.198>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:44:20 2012: C<Module> L<Number::Format|Number::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.73>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:44:42 2012: C<Module> L<Calendar::Japanese::Holiday|Calendar::Japanese::Holiday>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Feb 19 15:45:00 2012: C<Module> L<Archive::Zip|Archive::Zip>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: script/crc32>
+
+=back
+
+=head2 Sun Feb 19 17:09:44 2012: C<Module> L<Template::Plugin::Number::Format|Template::Plugin::Number::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 20 14:50:21 2012: C<Module> L<Crypt::OpenSSL::AES|Crypt::OpenSSL::AES>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:14:42 2012: C<Module> L<WWW::Mechanize|WWW::Mechanize>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.72>
+
+=item *
+
+C<EXE_FILES: bin/mech-dump>
+
+=back
+
+=head2 Mon Feb 27 14:18:08 2012: C<Module> L<Perl::Tidy|Perl::Tidy>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20101217>
+
+=item *
+
+C<EXE_FILES: bin/perltidy>
+
+=back
+
+=head2 Mon Feb 27 14:35:54 2012: C<Module> L<Net::SSLeay|Net::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:36:34 2012: C<Module> L<IO::Socket::SSL|IO::Socket::SSL>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:36:35 2012: C<Module> L<Net::SMTP::TLS|Net::SMTP::TLS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:36:41 2012: C<Module> L<DateTime::Format::W3CDTF|DateTime::Format::W3CDTF>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:36:47 2012: C<Module> L<XML::RSS::LibXML|XML::RSS::LibXML>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.3102>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:36:55 2012: C<Module> L<HTML::Entities::Numbered|HTML::Entities::Numbered>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:36:57 2012: C<Module> L<Module::Pluggable::Fast|Module::Pluggable::Fast>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:40:20 2012: C<Module> L<Test::Manifest|Test::Manifest>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:40:58 2012: C<Module> L<URI::Fetch|URI::Fetch>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:41:06 2012: C<Module> L<XML::XPath|XML::XPath>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: examples/xpath>
+
+=back
+
+=head2 Mon Feb 27 14:41:09 2012: C<Module> L<XML::Atom|XML::Atom>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.41>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:41:14 2012: C<Module> L<Feed::Find|Feed::Find>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:41:24 2012: C<Module> L<WebService::Bloglines|WebService::Bloglines>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:41:29 2012: C<Module> L<Font::AFM|Font::AFM>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:41:43 2012: C<Module> L<Term::Encoding|Term::Encoding>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:24 2012: C<Module> L<Net::DNS|Net::DNS>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.68>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:27 2012: C<Module> L<HTML::Scrubber|HTML::Scrubber>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:31 2012: C<Module> L<Template::Provider::Encoding|Template::Provider::Encoding>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:33 2012: C<Module> L<HTML::ResolveLink|HTML::ResolveLink>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:44 2012: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:45 2012: C<Module> L<Pod::Coverage|Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: bin/pod_cover>
+
+=back
+
+=head2 Mon Feb 27 14:42:46 2012: C<Module> L<Test::Pod::Coverage|Test::Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:47 2012: C<Module> L<Time::Duration|Time::Duration>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:50 2012: C<Module> L<Exporter::Lite|Exporter::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:51 2012: C<Module> L<Time::Duration::Parse|Time::Duration::Parse>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Feb 27 14:42:54 2012: C<Module> L<Text::Tags|Text::Tags>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Mar 13 11:07:23 2012: C<Module> L<Crypt::SSLeay|Crypt::SSLeay>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.58>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Mar 13 11:07:31 2012: C<Module> L<Net::Twitter::Lite|Net::Twitter::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 15:03:33 2012: C<Module> L<Furl|Furl>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 16:56:44 2012: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.61>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
+=head2 Wed Mar 14 17:49:28 2012: C<Module> L<Plack|Plack>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9986>
+
+=item *
+
+C<EXE_FILES: scripts/plackup>
+
+=back
+
+=head2 Wed Mar 14 17:50:06 2012: C<Module> L<Ouch|Ouch>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0401>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 17:50:14 2012: C<Module> L<Mozilla::CA|Mozilla::CA>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20120309>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 17:50:19 2012: C<Module> L<Any::Moose|Any::Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 17:50:41 2012: C<Module> L<LWP|LWP>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: bin/lwp-request bin/lwp-mirror bin/lwp-download bin/lwp-dump>
+
+=back
+
+=head2 Wed Mar 14 17:51:05 2012: C<Module> L<MIME::Base64::URLSafe|MIME::Base64::URLSafe>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 17:57:32 2012: C<Module> L<AnyEvent|AnyEvent>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 17:57:45 2012: C<Module> L<Guard|Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 17:57:50 2012: C<Module> L<Coro|Coro>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 18:00:06 2012: C<Module> L<LWP::Protocol::https|LWP::Protocol::https>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 18:00:07 2012: C<Module> L<Facebook::Graph|Facebook::Graph>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0301>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 19:24:51 2012: C<Module> L<Mouse|Mouse>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.97>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 19:24:57 2012: C<Module> L<Data::MessagePack|Data::MessagePack>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.39>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Mar 14 19:25:20 2012: C<Module> L<Text::Xslate|Text::Xslate>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.5007>
+
+=item *
+
+C<EXE_FILES: script/xslate>
+
+=back
+
+=head2 Thu Mar 15 10:07:12 2012: C<Module> L<Config::Pit|Config::Pit>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: bin/ppit>
+
+=back
+
+=head2 Thu Mar 15 10:07:15 2012: C<Module> L<WebService::Hatena::Bookmark::Lite|WebService::Hatena::Bookmark::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/site_perl/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Mar 15 16:02:30 2012: C<Module> L<Encode|Encode>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ito/.perlbrew/perl5/perls/perl-5.12.4/lib/5.12.4>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.44>
+
+=item *
+
+C<EXE_FILES: bin/enc2xs bin/piconv>
+
+=back
+

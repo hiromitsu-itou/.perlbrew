@@ -1,0 +1,58 @@
+{
+   "abstract" : "Powerful fast feature-rich perl source code profiler",
+   "author" : [
+      "Adam Kaplan <akaplan@cpan.org>, Tim Bunce <timb@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.56, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Devel-NYTProf",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Getopt::Long" : 0,
+            "JSON::Any" : 0,
+            "List::Util" : 0,
+            "Test::More" : "0.84",
+            "XSLoader" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name=Devel-NYTProf"
+      },
+      "homepage" : "http://perl-devel-nytprof.googlecode.com",
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "http://perl-devel-nytprof.googlecode.com/svn"
+      },
+      "x_MailingList" : "http://groups.google.com/group/develnytprof-dev"
+   },
+   "version" : "4.06"
+}

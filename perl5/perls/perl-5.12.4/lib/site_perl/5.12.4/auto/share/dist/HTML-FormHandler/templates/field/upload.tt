@@ -1,0 +1,2 @@
+[% INCLUDE field/label.tt %]
+<input type="file" name="[% f.html_name %]" id="[% f.html_name %]"[% process_attrs(f.attributes) %] />

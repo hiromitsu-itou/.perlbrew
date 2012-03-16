@@ -1,0 +1,21 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "unknown"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Digest-CRC",
+   "prereqs" : {},
+   "release_status" : "stable",
+   "version" : "0.11",
+   "x_installdirs" : "site",
+   "x_version_from" : "lib/Digest/CRC.pm"
+}

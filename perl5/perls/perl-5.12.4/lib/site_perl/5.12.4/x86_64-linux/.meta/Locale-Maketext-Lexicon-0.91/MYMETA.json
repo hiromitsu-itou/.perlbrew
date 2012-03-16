@@ -1,0 +1,57 @@
+{
+   "abstract" : "Use other catalog formats in Maketext",
+   "author" : [
+      "Audrey Tang <cpan@audreyt.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.01, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "mit"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Locale-Maketext-Lexicon",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "recommends" : {
+            "HTML::Parser" : "3.56",
+            "Lingua::EN::Sentence" : "0.25",
+            "PPI" : "1.203",
+            "Template" : "2.20",
+            "Template::Constants" : "2.75",
+            "YAML" : "0.66",
+            "YAML::Loader" : "0.66"
+         },
+         "requires" : {
+            "Locale::Maketext" : "1.17",
+            "perl" : "5.005"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://opensource.org/licenses/mit-license.php"
+      ]
+   },
+   "version" : "0.91"
+}

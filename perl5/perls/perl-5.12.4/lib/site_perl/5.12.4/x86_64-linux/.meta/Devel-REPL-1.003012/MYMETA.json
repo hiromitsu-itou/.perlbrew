@@ -1,0 +1,66 @@
+{
+   "abstract" : "a modern perl interactive shell",
+   "author" : [
+      "Matt S Trout - mst (at) shadowcatsystems.co.uk (L<http://www.shadowcatsystems.co.uk/>)"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.00, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Devel-REPL",
+   "no_index" : {
+      "directory" : [
+         "examples",
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "B::Concise" : 0,
+            "Data::Dump::Streamer" : 0,
+            "Data::Dumper::Concise" : 0,
+            "Devel::Peek" : 0,
+            "File::HomeDir" : 0,
+            "File::Spec" : 0,
+            "Lexical::Persistence" : 0,
+            "Moose" : "0.74",
+            "MooseX::AttributeHelpers" : "0.16",
+            "MooseX::Getopt" : "0.18",
+            "MooseX::Object::Pluggable" : "0.0009",
+            "PPI" : 0,
+            "Sys::SigAction" : 0,
+            "Task::Weaken" : 0,
+            "Term::ANSIColor" : 0,
+            "Term::ReadLine" : 0,
+            "Test::More" : 0,
+            "namespace::clean" : 0,
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "1.003012"
+}

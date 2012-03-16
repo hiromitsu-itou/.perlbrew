@@ -1,0 +1,66 @@
+{
+   "abstract" : "Convert Strings to English Program Identifiers",
+   "author" : [
+      "Rafael Kitover, C<< <rkitover@cpan.org> >>",
+      "Rafael Kitover <rkitover@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.04, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "String-ToIdentifier-EN",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.62",
+            "Test::More" : "0.92"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.56"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Exporter" : "5.57",
+            "Lingua::EN::Inflect::Phrase" : "0.07",
+            "Test::More" : "0.92",
+            "Text::Unidecode" : "0.04",
+            "namespace::clean" : "0.20",
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "provides" : {
+      "String::ToIdentifier::EN" : {
+         "file" : "lib/String/ToIdentifier/EN.pm",
+         "version" : "0.06"
+      },
+      "String::ToIdentifier::EN::Unicode" : {
+         "file" : "lib/String/ToIdentifier/EN/Unicode.pm",
+         "version" : 0
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/rkitover/string-toidentifier-en.git"
+      }
+   },
+   "version" : "0.06"
+}

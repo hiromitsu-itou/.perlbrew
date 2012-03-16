@@ -1,0 +1,34 @@
+{
+   "abstract" : "read-eval-print-loop for debugging your Catalyst application",
+   "author" : [
+      "Tomas Doran <bobtfish@bobtfish.net>",
+      "Florian Ragwitz <rafl@debian.org>",
+      "Ash Berlin <ash@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla::Plugin::MetaYAML version 1.092200, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "CatalystX-REPL",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Carp::REPL" : 0,
+            "Catalyst" : "5.800006",
+            "namespace::autoclean" : 0
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.04"
+}

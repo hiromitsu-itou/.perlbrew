@@ -1,0 +1,1 @@
+{"provides":{"XML::SAX::Base::NoHandler":{"version":"1.08","file":"XML/SAX/Base.pm"},"XML::SAX::Base":{"version":"1.08","file":"XML/SAX/Base.pm"},"XML::SAX::Exception":{"version":"1.08","file":"XML/SAX/Exception.pm"}},"version":"1.08","name":"XML::SAX::Base","dist":"XML-SAX-Base-1.08","pathname":"G/GR/GRANTM/XML-SAX-Base-1.08.tar.gz","module":"XML::SAX::Base"}

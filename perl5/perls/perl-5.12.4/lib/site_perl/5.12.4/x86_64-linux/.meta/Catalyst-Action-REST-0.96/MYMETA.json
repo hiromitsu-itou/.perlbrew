@@ -1,0 +1,69 @@
+{
+   "abstract" : "Automated REST Method Dispatching",
+   "author" : [
+      "Adam Jacob <adam@stalecoffee.org>, with lots of help from mst and jrockway"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.02, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Catalyst-Action-REST",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t",
+         "xt"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42",
+            "Test::More" : "0.88"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.42"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Catalyst::Runtime" : "5.80030",
+            "Class::Inspector" : "1.13",
+            "Config::General" : 0,
+            "Data::Serializer" : "0.36",
+            "HTML::Parser" : 0,
+            "JSON" : "2.12",
+            "JSON::XS" : "2.2222",
+            "LWP::UserAgent" : "2.033",
+            "MRO::Compat" : "0.10",
+            "Module::Pluggable::Object" : 0,
+            "Moose" : "1.03",
+            "Params::Validate" : "0.76",
+            "Test::More" : "0.88",
+            "URI::Find" : 0,
+            "XML::Simple" : 0,
+            "YAML::Syck" : "0.67",
+            "namespace::autoclean" : 0,
+            "perl" : "5.008001"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://git.shadowcat.co.uk/catagits/Catalyst-Action-REST.git"
+      }
+   },
+   "version" : "0.96",
+   "x_authority" : "cpan:BOBTFISH"
+}

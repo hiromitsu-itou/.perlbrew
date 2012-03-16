@@ -1,0 +1,61 @@
+{
+   "abstract" : "Inflect short English Phrases",
+   "author" : [
+      "Rafael Kitover <rkitover@cpan.org>",
+      "Rafael Kitover <rkitover@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Module::Install version 1.04, CPAN::Meta::Converter version 2.112150",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Lingua-EN-Inflect-Phrase",
+   "no_index" : {
+      "directory" : [
+         "inc",
+         "t"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36",
+            "Test::More" : "0.94"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.36"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Exporter" : "5.63",
+            "Lingua::EN::Inflect" : "1.891",
+            "Lingua::EN::Inflect::Number" : "1.1",
+            "Lingua::EN::Tagger" : "0.15",
+            "Test::More" : "0.94"
+         }
+      }
+   },
+   "provides" : {
+      "Lingua::EN::Inflect::Phrase" : {
+         "file" : "lib/Lingua/EN/Inflect/Phrase.pm",
+         "version" : "0.12"
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ],
+      "repository" : {
+         "url" : "git://github.com/rkitover/lingua-en-inflect-phrase.git"
+      }
+   },
+   "version" : "0.12"
+}
